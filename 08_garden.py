@@ -27,5 +27,5 @@ z = garden_set ^ meadow_set
 print(z)
 # выведите на консоль те, которые растут на лугу, но не растут в саду
 # TODO здесь ваш код
-w = set.difference_update(meadow_set,garden_set)
+
 print(w)
